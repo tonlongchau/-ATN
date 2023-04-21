@@ -17,7 +17,7 @@
 ### Install Project
 
 ```
- git clone https://github.com/AnhTan1420/Final-Report-Selenium.git
+ git clone https://github.com/tonlongchau/-ATN
 ```
 
 ### Activate .venv
