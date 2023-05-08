@@ -6,6 +6,8 @@
 
 ### Project Report :https://docs.google.com/document/d/18XEm-Z95boEFA3SrAokx7ayPECgFjTkD/edit
 
+### Slide :https://docs.google.com/presentation/d/1199NIXHjhg1_f7yM-2sa__A2b0fpvz8b/edit#slide=id.p1
+
 ## Demo
 
 <p align="center">
